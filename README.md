@@ -6,6 +6,7 @@ Tutorial / Presentations
 3. https://flocon2017.sched.com/event/8KE6/morning-training-session-track-i-network-traffic-analysis-silk
 4. Netflow & Threat Correlation - https://www.youtube.com/watch?v=d2MQtOZPmII
 5. Bro & silk Integration - 1. Bro / Silk Integration - https://www.youtube.com/watch?v=gZxoSxXaA1w (net flow vs PCAP slide) 
+6. Flow and Network Hunting - http://www.opensecuritytraining.info/Flow.html
 
 
 Tools
